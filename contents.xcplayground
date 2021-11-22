@@ -6,5 +6,11 @@
         <page name='leetcode_26'/>
         <page name='leetcode_27'/>
         <page name='naver_test'/>
+        <page name='leetcode_9'/>
+        <page name='leetcode_10'/>
+        <page name='leetcode_22'/>
+        <page name='leetcode_42'/>
+        <page name='leetcode_45'/>
+        <page name='leetcode_53'/>
     </pages>
 </playground>
