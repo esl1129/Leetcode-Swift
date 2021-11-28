@@ -12,5 +12,9 @@
         <page name='leetcode_42'/>
         <page name='leetcode_45'/>
         <page name='leetcode_53'/>
+        <page name='1127_1'/>
+        <page name='1127_2'/>
+        <page name='1127_3'/>
+        <page name='1127_4'/>
     </pages>
 </playground>
